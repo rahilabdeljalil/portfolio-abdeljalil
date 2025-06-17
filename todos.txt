@@ -1,0 +1,8 @@
+1 -  navbar = done  
+2-  about section = done
+3-  skills section = done  
+4-  experince section =
+5-  project section =
+6- review section = 
+7-  contact section =
+
