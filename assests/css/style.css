@@ -2183,6 +2183,9 @@ body.dark-mode .contact-form textarea:focus {
 
 /* --- Responsive Adjustments --- */
 @media (max-width: 768px) {
+  .home .home-image {
+display:none;
+}
   .footer-content {
     flex-direction: column;
     /* Stack elements vertically */
