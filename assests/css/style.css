@@ -1877,7 +1877,11 @@ body.dark-mode .reviews-wrapper {
   .skills-section-header .Title h1 {
     font-size: 2.5em;
   }
-
+.about-info {
+  margin-top: 2.6rem;
+  display:block;
+  width:100%;
+}
   .contact-title {
     font-size: 2.2em;
   }
