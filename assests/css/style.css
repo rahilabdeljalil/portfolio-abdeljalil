@@ -1476,6 +1476,10 @@ body.dark-mode .reviews-wrapper {
   .about .about-info .about-image {
   display: none;
 }
+  .about {
+    display:fles;
+    width:100%;
+  }
 
   .reviews-title {
     font-size: 2em;
