@@ -10,6 +10,10 @@ body {
   margin: 0px;
   padding: 0px;
 }
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 80px; /* navbar height */
+}
 
 /* Dark Mode styles */
 body.dark-mode {
